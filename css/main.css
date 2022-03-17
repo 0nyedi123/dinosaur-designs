@@ -25,6 +25,18 @@ figcaption {
   text-align: center;
 }
 
+figcaption:nth-child(2) {
+  font-size: .6rem;
+  font-style: italic;
+  text-align: center;
+}
+
+figcaption:nth-child(3) {
+  font-size: .6rem;
+  font-style: italic;
+  text-align: center;
+}
+
 nav {
   font-family: 'Patua One', san-serif;
   font-size: 1.125rem;
