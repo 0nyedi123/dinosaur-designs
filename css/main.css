@@ -20,19 +20,19 @@ h1, h2 {
 }
 
 figcaption {
-  font-size: .8rem;
+  font-size: .8.5rem;
   font-style: italic;
   text-align: center;
 }
 
 figcaption:nth-child(2) {
-  font-size: .8rem;
+  font-size: .8.5rem;
   font-style: italic;
   text-align: center;
 }
 
 figcaption:nth-child(3) {
-  font-size: .8rem;
+  font-size: .8.5rem;
   font-style: italic;
   text-align: center;
 }
